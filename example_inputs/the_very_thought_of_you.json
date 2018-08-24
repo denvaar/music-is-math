@@ -1,0 +1,109 @@
+{
+  "staff": {
+    "tempo": 100,
+    "notes": [
+      {
+        "type": ["quarter", "half", "half"],
+        "freq": ["d4", "g3", "b2"]
+      },
+      { "type": "quarter", "freq": "e4" },
+      {
+        "type": ["quarter", "half", "half"],
+        "freq": ["369.994", "g3", "116.541"]
+      },
+      { "type": "quarter", "freq": "e4" },
+      {
+        "type": ["quarter", "half", "half", "half"],
+        "freq": ["d4", "c4", "g3", "a2"]
+      },
+      { "type": "quarter", "freq": "e4" },
+      {
+        "type": ["quarter", "eighth", "eighth"],
+        "freq": ["d4", "184.997", "103.826"]
+      },
+      { "type": "eighth", "freq": "c4" },
+      { "type": "eighth", "freq": "d4" },
+      { "type": "eighth", "freq": "c4" },
+      {
+        "type": ["eighth", "half", "half"],
+        "freq": ["d4", "d3", "g2"]
+      },
+      { "type": "eighth", "freq": "d4" },
+      { "type": "quarter", "freq": "d4" },
+      {
+        "type": ["quarter", "half", "half"],
+        "freq": ["0", "e3", "g2"]
+      },
+      { "type": "eighth", "freq": "d5" },
+      { "type": "eighth", "freq": "b4" },
+      {
+        "type": ["eighth", "half", "half", "half"],
+        "freq": ["d5", "b4", "184.997", "g2"]
+      },
+      { "type": "eighth", "freq": "d5" },
+      { "type": "quarter", "freq": "d5" },
+      {
+        "type": ["eighth", "half", "half"],
+        "freq": ["0", "e3", "g2"]
+      },
+      { "type": "eighth", "freq": "b3" },
+      { "type": "eighth", "freq": "d4" },
+      { "type": "eighth", "freq": "b3" },
+      {
+        "type": ["eighth", "half", "half", "half"],
+        "freq": ["e4", "b3", "d3", "g2"]
+      },
+      { "type": "eighth", "freq": "e4" },
+      { "type": "quarter", "freq": "e4" },
+      {
+        "type": ["quarter", "half", "half"],
+        "freq": ["0", "e3", "g2"]
+      },
+      { "type": "eighth", "freq": "d5" },
+      { "type": "eighth", "freq": "b4" },
+      {
+        "type": ["eighth", "half", "half", "half"],
+        "freq": ["e5", "b4", "184.997", "g2"]
+      },
+      { "type": "eighth", "freq": "e5" },
+      { "type": "quarter", "freq": "e5" },
+      {
+        "type": ["quarter", "half", "half"],
+        "freq": ["0", "e3", "g2"]
+      },
+      { "type": "eighth", "freq": "e4" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "eighth", "freq": "e4" },
+      {
+        "type": ["quarter", "quarter", "half"],
+        "freq": ["g4", "b3", "g2"]
+      },
+      { "type": "quarter", "freq": "g3" },
+      { "type": "eighth", "freq": "e4" },
+      {
+        "type": ["quarter", "quarter", "half"],
+        "freq": ["g4", "c4", "a2"]
+      },
+      { "type": "quarter", "freq": "g3" },
+      { "type": "eighth", "freq": "e4" },
+      {
+        "type": ["quarter", "quarter", "half"],
+        "freq": ["g4", "277.183", "116.541"]
+      },
+      { "type": "quarter", "freq": "g3" },
+      { "type": "eighth", "freq": "e4" },
+      {
+        "type": ["quarter", "quarter", "half", "half"],
+        "freq": ["d4", "g4", "g3", "b2"]
+      },
+      { "type": "quarter", "freq": "e4" },
+      { "type": "quarter", "freq": "g4" },
+      {
+        "type": ["eighth", "half", "half", "half"],
+        "freq": ["b4", "277.183", "184.997", "g2"]
+      },
+      { "type": "eighth", "freq": "b4" },
+      { "type": "quarter", "freq": "b4" }
+    ]
+  }
+}

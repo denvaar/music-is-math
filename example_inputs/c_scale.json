@@ -1,0 +1,27 @@
+{
+  "staff": {
+    "tempo": 100,
+    "notes": [
+      { "type": "quarter", "freq": "c4" },
+      { "type": "quarter", "freq": "d4" },
+      { "type": "quarter", "freq": "e4" },
+      { "type": "quarter", "freq": "f4" },
+      { "type": "quarter", "freq": "g4" },
+      { "type": "quarter", "freq": "a4" },
+      { "type": "quarter", "freq": "b4" },
+      { "type": "quarter", "freq": "c5" },
+      { "type": "quarter", "freq": "c5" },
+      { "type": "quarter", "freq": "b4" },
+      { "type": "quarter", "freq": "a4" },
+      { "type": "quarter", "freq": "g4" },
+      { "type": "quarter", "freq": "f4" },
+      { "type": "quarter", "freq": "e4" },
+      { "type": "quarter", "freq": "d4" },
+      { "type": "quarter", "freq": "c4" },
+      {
+        "type": ["whole", "whole", "whole"],
+        "freq": ["c4", "e4", "g4"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "staff": {
+    "tempo": 100,
+    "notes": [
+      { "type": "eighth", "freq": "b4" },
+      { "type": "eighth", "freq": "b4" },
+      { "type": "quarter", "freq": "b4" },
+      { "type": "eighth", "freq": "a4" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "quarter", "freq": "a4" },
+      { "type": "eighth rest", "freq": "0" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "eighth", "freq": "b4" },
+      { "type": "eighth", "freq": "a4" },
+      { "type": "quarter", "freq": "g4" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "eighth", "freq": "369.994" },
+      { "type": "eighth", "freq": "e4" },
+      { "type": "eighth", "freq": "d4" },
+      { "type": "eighth", "freq": "e4" },
+      { "type": "eighth", "freq": "369.994" },
+      { "type": "quarter", "freq": "g4" },
+      { "type": "eighth rest", "freq": "0" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "quarter", "freq": "g4" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "eighth", "freq": "a4" },
+      { "type": "eighth", "freq": "b4" },
+      { "type": "eighth", "freq": "b4" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "eighth", "freq": "a4" },
+      { "type": "eighth", "freq": "a4" },
+      { "type": "eighth", "freq": "b4" },
+      { "type": "eighth", "freq": "g4" },
+      { "type": "quarter", "freq": "a4" }
+    ]
+  }
+}

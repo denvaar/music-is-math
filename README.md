@@ -1,30 +1,37 @@
+## This is an experiment
+
+This is an experiment to explore how music can be composed programmatically.
+
+The overall goal that I have for this experiment is to be able to use Javascript Object Notation (JSON) to digitally compose and represent music.
+This code relies on [SoX - Sound Exchange](http://sox.sourceforge.net/) to make noise. This dependency might be eliminated in the future.
+
 ### JSON Notation
 
-```
+```json
 {
-  staff: {
-    tempo: 100,
-    ts: "4/4",
-    notes: [
+  "staff": {
+    "tempo": 100,
+    "ts": "4/4",
+    "notes": [
       {
-        name: "quarter",
-        freq: ["c4", "e4", "f4"]
+        "name": "quarter",
+        "freq": ["c4", "e4", "f4"]
       },
       {
-        name: "quarter",
-        freq: "d4"
+        "name": "quarter",
+        "freq": "d4"
       },
       {
-        name: "quarter",
-        freq: "e4"
+        "name": "quarter",
+        "freq": "e4"
       },
       {
-        name: "quarter",
-        freq: "f4"
+        "name": "quarter",
+        "freq": "f4"
       },
       {
-        name: "quarter",
-        freq: "g4"
+        "name": "quarter",
+        "freq": "g4"
       },
     ]
   }
@@ -63,32 +70,25 @@
     ]
   }
 }
-```
-
-### Twinkle, twinkle, little star
-
-```
 {
   "staff": {
     "tempo": 100,
     "notes": [
-      { "type": "quarter", "freq": "c4" },
-      { "type": "quarter", "freq": "c4" },
-      { "type": "quarter", "freq": "g4" },
-      { "type": "quarter", "freq": "g4" },
+      { "type": "half", "freq": "a4" },
       { "type": "quarter", "freq": "a4" },
-      { "type": "half",    "freq": "g4" },
-      { "type": "quarter", "freq": "f4" },
-      { "type": "quarter", "freq": "f5" },
+      { "type": "half", "freq": "e5" },
       { "type": "quarter", "freq": "e5" },
-      { "type": "quarter", "freq": "e4" },
-      { "type": "quarter", "freq": "d4" },
-      { "type": "quarter", "freq": "d4" },
-      { "type": "half",    "freq": "c4" }
+      { "type": "quarter", "freq": "b4" },
+      { "type": "quarter", "freq": "c5" },
+      { "type": "quarter", "freq": "b4" },
+      { "type": "half", "freq": "a4" },
+      { "type": "quarter", "freq": "0" },
+      { "type": "quarter", "freq": "e5" },
+      { "type": "quarter", "freq": "g5" },
+      { "type": "half", "freq": "a5" },
+      { "type": "quarter", "freq": "g5" },
+      { "type": "quarter", "freq": "e5" }
     ]
   }
 }
 ```
-
-Tempo is measured in quarter notes per minute (QPM.)
-Synth.Sound.compose_many(1000, [["C2", "C3", "G3", "C4", "311.13", "G4"], ["92.50", "185", "207.65", "C4", "311.13", "415.30"]])

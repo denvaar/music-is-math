@@ -1,0 +1,90 @@
+{
+  "staff": {
+    "tempo": 100,
+    "notes": [
+      {
+        "type": ["eighth", "eighth", "eighth"],
+        "freq": ["g6", "b5", "e5"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth"],
+        "freq": ["e6", "g5", "b4"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth"],
+        "freq": ["g6", "b5", "e5"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["1479.978", "a5", "c5", "e5"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["1244.508", "739.989", "a4", "c5"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["e6", "g6", "466.164", "554.365"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["d6", "830.609", "f5", "b4"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["d6", "830.609", "f5", "b4"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["d6", "830.609", "f5", "b4"]
+      },
+      { "type": "eighth", "freq": "0" },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["1108.731", "g5", "e5", "466.164"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["1108.731", "g5", "e5", "466.164"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["1108.731", "g5", "e5", "466.164"]
+      },
+      { "type": "eighth", "freq": "0" },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["c6", "f5", "622.254", "a4"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["c6", "f5", "622.254", "a4"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth", "eighth"],
+        "freq": ["c6", "f5", "622.254", "a4"]
+      },
+      { "type": "eighth", "freq": "0" },
+      {
+        "type": ["eighth", "eighth", "eighth"],
+        "freq": ["b5", "e5", "g4"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth"],
+        "freq": ["e6", "g5", "b4"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth"],
+        "freq": ["c6", "e5", "a4"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth"],
+        "freq": ["e6", "739.989", "c5"]
+      },
+      {
+        "type": ["eighth", "eighth", "eighth"],
+        "freq": ["b5", "e5", "g4"]
+      }
+    ]
+  }
+}
